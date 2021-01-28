@@ -4,5 +4,5 @@
 15 9 * * * cd /jd/scripts && bash jd jd_coupon now
 40 * * * * cd /jd/scripts && wget -O dati.js https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_dati.js
 */20 * * * * cd /jd/scripts && bash jd dati now
-20 20 28 1 * cd /jd/scripts wget -O redrain.js https://raw.githubusercontent.com/Tartarus2014/Script/master/jd_live_redrain.js
+20 16,18,20, 28 1 * cd /jd/scripts wget -O redrain.js https://raw.githubusercontent.com/Tartarus2014/Script/master/jd_live_redrain.js
 30,31 20-23/1 28 1 * cd /jd/scripts bash jd redrain now
