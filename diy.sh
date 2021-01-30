@@ -2,7 +2,7 @@
 
 ##############################作者昵称（必填）##############################
 # 使用空格隔开
-author_list="shylocks whyour moposmall m dd"
+author_list="shylocks whyour moposmall m dd qq34347476"
 
 ##############################作者脚本地址URL（必填）##############################
 # 例如：https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_nc.js
@@ -14,6 +14,7 @@ scripts_base_url_3=https://raw.sevencdn.com/moposmall/Script/main/Me/
 scripts_base_url_4=http://qnn9kdmd1.hn-bkt.clouddn.com/
 scripts_base_url_5=https://raw.sevencdn.com/i-chenzhe/qx/main/
 scripts_base_url_6=https://raw.sevencdn.com/799953468/Quantumult-X/master/Scripts/JD/
+scripts_base_url_7=https://gitee.com/qq34347476/quantumult-x/raw/master/
 ##############################作者脚本名称（必填）##############################
 # 将相应作者的脚本填写到以下变量中
 my_scripts_list_1="jd_live_redrain_offical.js jd_live_redrain_nian.js jd_live_redrain_half.js jd_live_redrain2.js"
@@ -22,6 +23,7 @@ my_scripts_list_3="jx_cfd.js"
 my_scripts_list_4="jd_live_redrain.js"
 my_scripts_list_5="jd_dati.js"
 my_scripts_list_6="jd_paopao.js"
+my_scripts_list_7="format_share_jd_code.js”
 
 ##############################随机函数##########################################
 rand(){
