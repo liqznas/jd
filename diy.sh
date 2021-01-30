@@ -2,7 +2,7 @@
 
 ##############################作者昵称（必填）##############################
 # 使用空格隔开
-author_list="shylocks whyour moposmall m dd qq34347476"
+author_list="shylocks whyour moposmall m dd dj qq34347476"
 
 ##############################作者脚本地址URL（必填）##############################
 # 例如：https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_nc.js
